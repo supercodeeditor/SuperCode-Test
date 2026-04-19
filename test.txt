@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-hello from Web2usa
-=======
-hello from Web1cn
+hello from Web3us
 >>>>>>> branch 'main' of https://github.com/weixiewu-dot/SuperCode-Test.git
 =======
 hello from Web1cncn
